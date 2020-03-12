@@ -1,0 +1,7 @@
+/.git/
+/.vscode/
+/node_modules/
+/.gitignore
+/.project
+/npm-debug.log
+/package-lock.json

@@ -1,0 +1,11 @@
+/node_modules/
+/.project
+/npm-debug.log
+/package-lock.json
+/node_modules/
+
+/.env
+/.project
+
+/npm-debug.log
+/package-lock.json
